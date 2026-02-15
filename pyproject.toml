@@ -1,6 +1,6 @@
 [project]
 name = "justmyresource-lucide"
-version = "0.1.0"
+version = "0.2.0.dev0"
 description = "JustMyResource pack for Lucide icons - provides access to 1500+ SVG icons from the Lucide icon library"
 authors = [
     {name = "Kaj Siebert", email = "kaj@k-si.com"}
