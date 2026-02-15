@@ -2,6 +2,8 @@
 
 JustMyResource pack for [Lucide icons](https://lucide.dev/) - provides access to 1500+ SVG icons from the Lucide icon library.
 
+This is a resource pack for [JustMyResource](https://github.com/kws/justmyresource), a resource discovery and resolution library for Python.
+
 ## Installation
 
 ```bash
@@ -9,7 +11,7 @@ pip install justmyresource-lucide
 ```
 
 This package requires:
-- `justmyresource` (>=0.1.0,<0.2.0)
+- [`justmyresource`](https://github.com/kws/justmyresource) (>=0.1.0,<0.2.0)
 - `lucide` (>=1.1.3,<2.0.0)
 
 ## Usage
@@ -81,6 +83,7 @@ You can browse all available icons at [lucide.dev/icons](https://lucide.dev/icon
 
 This package is a resource pack adapter that provides access to icons from:
 
+- **[JustMyResource](https://github.com/kws/justmyresource)**: Resource discovery and resolution library
 - **Lucide Icons**: [https://lucide.dev/](https://lucide.dev/) - 1500+ SVG icons (ISC License)
 - **lucide Python Package**: [https://github.com/franciscobmacedo/lucide](https://github.com/franciscobmacedo/lucide) - Django/Jinja template integration (MIT License)
 

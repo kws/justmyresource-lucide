@@ -26,6 +26,11 @@ classifiers = [
     "Typing :: Typed",
 ]
 
+[project.urls]
+Homepage = "https://github.com/kws/justmyresource-lucide"
+Repository = "https://github.com/kws/justmyresource-lucide"
+Issues = "https://github.com/kws/justmyresource-lucide/issues"
+
 [project.entry-points."justmyresource.packs"]
 lucide = "justmyresource_lucide:get_resource_provider"
 
